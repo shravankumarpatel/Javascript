@@ -1,2 +1,2 @@
 # Javascript
-learning the javascript
+learn the JS
